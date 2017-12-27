@@ -16,3 +16,7 @@ npm run watch
 ## Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/bengourley/basic-express-site-2016/master/screenshot.png)
+
+# Source
+
+https://www.clock.co.uk/insight/a-simple-website-in-node-js-2016-edition
