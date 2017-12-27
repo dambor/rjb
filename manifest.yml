@@ -1,0 +1,5 @@
+---
+applications:
+- name: rjb
+  memory: 1G
+  buildpack: nodejs_buildpack

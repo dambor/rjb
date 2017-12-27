@@ -1,0 +1,20 @@
+doctype html
+html
+  head
+    link(rel='stylesheet', href='/css/index.css')
+    title Relojoaria Borges
+  body
+    .header
+      h1.page-title Relojoaria Borges
+
+    ul.nav
+      li: a(href='/') Home
+      li: a(href='#news') Novidades
+      li: a(href='#about') Sobre
+      li: a(href='#contact') Contato
+
+    .main-content
+      block content
+
+    .footer
+      p Copyright © 2018 Dambor
